@@ -1,4 +1,4 @@
-# Guess the number
+# Guess the number 😊
 
 🇺🇸 Mini-game "Guess the number" which helps to pass the time.
 
